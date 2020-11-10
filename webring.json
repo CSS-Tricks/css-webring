@@ -1,14 +1,17 @@
 [
   {
     "name": "CSS-Tricks",
-    "url": "https://css-tricks.com"
+    "url": "https://css-tricks.com",
+    "owner": "Chris Coyier"
   },
   {
     "name": "CSS { In Real Life }",
-    "url": "https://css-irl.info/"
+    "url": "https://css-irl.info/",
+    "owner": "Michelle Barker"
   },
   {
     "name": "CSS Wizardry",
-    "url": "https://csswizardry.com/archive/"
+    "url": "https://csswizardry.com/archive/",
+    "owner": "Harry Roberts"
   }
 ]
