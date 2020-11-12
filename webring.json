@@ -13,5 +13,15 @@
     "name": "CSS Wizardry",
     "url": "https://csswizardry.com/archive/",
     "owner": "Harry Roberts"
+  },
+  {
+    "name": "Adactio",
+    "url": "https://adactio.com/",
+    "owner": "Jeremy Keith"
+  },
+  {
+    "name": "Codrops",
+    "url": "https://tympanus.net/codrops/",
+    "owner": "Manoela Ilic"
   }
 ]
